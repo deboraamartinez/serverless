@@ -22,6 +22,7 @@
     "@middy/http-json-body-parser": "^3.4.0",
     "aws-sdk": "^2.1223.0",
     "http-errors": "^2.0.0",
+    "serverless": "^3.22.0",
     "uuid": "^9.0.0"
   }
 }
